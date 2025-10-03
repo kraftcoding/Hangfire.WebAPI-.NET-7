@@ -1,4 +1,4 @@
-# Hangfire-Samples-.NET-4.8
+# Hangfire.WebAPI-.NET-7
 
 Sample projects for Hangfire with Web API.
 
